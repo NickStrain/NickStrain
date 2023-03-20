@@ -18,8 +18,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 
 
@@ -43,5 +41,3 @@
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
