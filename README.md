@@ -1,4 +1,4 @@
-## Hey 👋, I'm Shugavaneshwar R  
+## I'm Shugavaneshwar R  
   
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shuga-vaneshwar-922603226/" target="_blank">
